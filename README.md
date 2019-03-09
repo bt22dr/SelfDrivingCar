@@ -1,27 +1,67 @@
 # Udacity Self Driving Car
+[Self Driving Car Engineer Nanodegree 과정](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)을 들으면서 수행한 프로젝트 결과와 개인적으로 공부한 내용을 정리하였음. 아래와 같이 3개의 term으로 구성되어 있다. 
 
 ## Term 1. Computer Vision and Deep Learning
-각종 automotive problems에 Computer Vision 기법과 Deep Learning 기술을 적용해보는 과정이다. 아래와 같은 프로젝트를 수행하였다. 
+각종 automotive problems에 Computer Vision 기법과 Deep Learning 기술을 적용해보는 과정이다. Term 1에서는 아래와 같은 프로젝트를 수행하였다. 
+
 
 ### Project 1. Finding Lane Lines on the Road
 프로젝트 repository | https://github.com/bt22dr/CarND-LaneLines-P1
 --- | --- 
 스크린샷 | ![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif)
 
-
 ### Project 2. Traffic Sign Classifier
+프로젝트 repository | https://github.com/bt22dr/CarND-Traffic-Sign-Classifier-Project
+--- | --- 
+스크린샷 | ![CarND-Traffic-Sign-Classifier-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-traffic-sign-classifier.png)
+
 ### Project 3. Behavioral Cloning
+프로젝트 repository | https://github.com/bt22dr/CarND-Behavioral-Cloning-P3
+--- | --- 
+스크린샷 | ![CarND-Behavioral-Cloning-P3](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-behavioral-cloning.gif)
+
 ### Project 4. Advanced Lane Finding
+프로젝트 repository | https://github.com/bt22dr/CarND-Advanced-Lane-Lines
+--- | --- 
+스크린샷 | ![CarND-Advanced-Lane-Lines](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines2.gif)
+
 ### Project 5. Vehicle Detection and Tracking
+프로젝트 repository | https://github.com/bt22dr/CarND-Vehicle-Detection
+--- | --- 
+스크린샷 | ![CarND-Vehicle-Detection](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-vehicle-detection.gif)
 
 ## Term 2. Sensor Fusion, Localization, and Control
+Term 2에서는 아래와 같은 프로젝트를 수행하였다. 
+
+
 ### Project 1. Extended Kalman Filters
+프로젝트 repository | https://github.com/bt22dr/CarND-Extended-Kalman-Filter-Project
+--- | --- 
+스크린샷 | ![CarND-Extended-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-extended-kalman-filter.gif)
+
 ### Project 2. Unscented Kalman Filters
+프로젝트 repository | https://github.com/bt22dr/CarND-Unscented-Kalman-Filter-Project
+--- | --- 
+스크린샷 | ![CarND-Unscented-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-unscented-kalman-filter.gif)
+
 ### Project 3. Kidnapped Vehicle
+프로젝트 repository | https://github.com/bt22dr/CarND-Kidnapped-Vehicle-Project
+--- | --- 
+스크린샷 | ![CarND-Kidnapped-Vehicle-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-particle_filter.gif)
+
 ### Project 4. PID Controller
+프로젝트 repository | https://github.com/bt22dr/CarND-PID-Control-Project
+--- | --- 
+
 ### Project 5. Model Predictive Control
+프로젝트 repository | https://github.com/bt22dr/CarND-MPC-Project
+--- | --- 
+
 
 ## Term 3. Path Planning, Concentrations, and Systems (진행중)
+Term 3에서는 아래와 같은 프로젝트를 수행하였다. 
+
+
 ### Project 1. Project: Path Planning Project
 ### Project 2. Project: Semantic Segmentation
 ### Project 3. Project: Functional Safety of a Lane Assistance System
