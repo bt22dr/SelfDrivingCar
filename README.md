@@ -5,27 +5,27 @@
 각종 automotive problems에 Computer Vision 기법과 Deep Learning 기술을 적용해보는 과정이다. Term 1에서는 아래와 같은 프로젝트를 수행하였다. 
 
 
-### Project 1. Finding Lane Lines on the Road
+#### Project 1. Finding Lane Lines on the Road
 프로젝트 repository | https://github.com/bt22dr/CarND-LaneLines-P1
 --- | --- 
 스크린샷 | ![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif)
 
-### Project 2. Traffic Sign Classifier
+#### Project 2. Traffic Sign Classifier
 프로젝트 repository | https://github.com/bt22dr/CarND-Traffic-Sign-Classifier-Project
 --- | --- 
 스크린샷 | ![CarND-Traffic-Sign-Classifier-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-traffic-sign-classifier.png)
 
-### Project 3. Behavioral Cloning
+#### Project 3. Behavioral Cloning
 프로젝트 repository | https://github.com/bt22dr/CarND-Behavioral-Cloning-P3
 --- | --- 
 스크린샷 | ![CarND-Behavioral-Cloning-P3](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-behavioral-cloning.gif)
 
-### Project 4. Advanced Lane Finding
+#### Project 4. Advanced Lane Finding
 프로젝트 repository | https://github.com/bt22dr/CarND-Advanced-Lane-Lines
 --- | --- 
 스크린샷 | ![CarND-Advanced-Lane-Lines](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines2.gif)
 
-### Project 5. Vehicle Detection and Tracking
+#### Project 5. Vehicle Detection and Tracking
 프로젝트 repository | https://github.com/bt22dr/CarND-Vehicle-Detection
 --- | --- 
 스크린샷 | ![CarND-Vehicle-Detection](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-vehicle-detection.gif)
