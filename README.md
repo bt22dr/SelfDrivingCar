@@ -1,7 +1,7 @@
 # Udacity Self Driving Car
 [Self Driving Car Engineer Nanodegree 과정](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013)을 들으면서 수행한 프로젝트 결과와 개인적으로 공부한 내용을 정리하였음. 이 SDC 과정은 아래와 같이 3개의 term으로 구성되어 있다. 
 
-<p>
+<br><br>
 
 
 ## Term 1. Computer Vision and Deep Learning
@@ -39,7 +39,7 @@
 
 
 
-<p>
+<br><br><br>
 
 
 
@@ -74,7 +74,7 @@ Term 2에서는 아래와 같은 프로젝트를 수행하였다.
 --- | --- 
 
 
-<p>
+<br><br><br>
 
 
 
