@@ -45,31 +45,39 @@
 
 ## Term 2. Sensor Fusion, Localization, and Control
 Term 2에서는 아래와 같은 프로젝트를 수행하였다. 
+* Sensor Fusion
+  * Extended Kalman Filters
+  * Unscented Kalman Filters
+* Localization
+  * Particle Filter
+* Control
+  * PID Controller
+  * Model Predictive Control
 
-### Sensor Fusion
+
+
+
+
+
+
 #### Project 1. Extended Kalman Filters
 프로젝트 repository | https://github.com/bt22dr/CarND-Extended-Kalman-Filter-Project
 --- | --- 
 스크린샷 | ![CarND-Extended-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-extended-kalman-filter.gif)
 
-결과물 | [정리 노트](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=3Im5iZOFUjg)
+| 결과물 | [정리 노트](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=3Im5iZOFUjg) |
 
 #### Project 2. Unscented Kalman Filters
 프로젝트 repository | https://github.com/bt22dr/CarND-Unscented-Kalman-Filter-Project
 --- | --- 
 스크린샷 | ![CarND-Unscented-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-unscented-kalman-filter.gif)
-결과물 | [정리 노트](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=K-nPgtFtTs4)
-
-### Localization
-[Markov Localization](https://docs.google.com/document/d/16ceP0tXqwgHY3ntYjmDwbUIj35PvG-6NYLT-ChbEc3A/edit?usp=sharing) 수업 내용 정리 노트
+| 결과물 | [정리 노트](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=K-nPgtFtTs4) |
 
 #### Project 3. Particle Filter
 프로젝트 repository | https://github.com/bt22dr/CarND-Kidnapped-Vehicle-Project
 --- | --- 
 스크린샷 | ![CarND-Kidnapped-Vehicle-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-particle_filter.gif)
-결과물 | [정리 노트](https://docs.google.com/document/d/1doS8mDIkrr3F9V70GVH6SHO3sKPh0IvfBBwCeKE9MVo/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=FCaGikYDykc&t=2s)
-
-### Control
+| 결과물 | [Markov Localization 정리 노트](https://docs.google.com/document/d/16ceP0tXqwgHY3ntYjmDwbUIj35PvG-6NYLT-ChbEc3A/edit?usp=sharing), [Particle Filters 정리 노트](https://docs.google.com/document/d/1doS8mDIkrr3F9V70GVH6SHO3sKPh0IvfBBwCeKE9MVo/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=FCaGikYDykc&t=2s) |
 
 #### Project 4. PID Controller
 프로젝트 repository | https://github.com/bt22dr/CarND-PID-Control-Project
