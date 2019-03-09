@@ -48,6 +48,7 @@ Term 2에서는 아래와 같은 프로젝트를 수행하였다.
 프로젝트 repository | https://github.com/bt22dr/CarND-Kidnapped-Vehicle-Project
 --- | --- 
 스크린샷 | ![CarND-Kidnapped-Vehicle-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-particle_filter.gif)
+동영상 | ![youtube](https://www.youtube.com/watch?v=FCaGikYDykc&t=2s)
 
 ### Project 4. PID Controller
 프로젝트 repository | https://github.com/bt22dr/CarND-PID-Control-Project
