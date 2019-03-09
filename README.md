@@ -5,8 +5,8 @@
 
 ### Project 1. Finding Lane Lines on the Road
 <table>
-  <tr><td>프로젝트 repository</td><td>https://github.com/bt22dr/CarND-LaneLines-P1</td></tr>
-  <tr><td>스크린샷</td><td>![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif)</td></tr>
+  <tr><td> 프로젝트 repository </td><td> https://github.com/bt22dr/CarND-LaneLines-P1 </td></tr>
+  <tr><td> 스크린샷 </td><td> ![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif) </td></tr>
 
 ### Project 2. Traffic Sign Classifier
 ### Project 3. Behavioral Cloning
