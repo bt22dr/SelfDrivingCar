@@ -44,7 +44,7 @@ Term 2에서는 아래와 같은 프로젝트를 수행하였다.
 --- | --- 
 스크린샷 | ![CarND-Unscented-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-unscented-kalman-filter.gif)
 
-### Project 3. Kidnapped Vehicle
+### Project 3. Particle Filter
 프로젝트 repository | https://github.com/bt22dr/CarND-Kidnapped-Vehicle-Project
 --- | --- 
 스크린샷 | ![CarND-Kidnapped-Vehicle-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-particle_filter.gif)
