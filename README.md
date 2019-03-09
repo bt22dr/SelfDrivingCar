@@ -1,2 +1,1 @@
-# SelfDrivingCar
-Udacity Self Driving Car 수업  정리
+# Udacity Self Driving Car 수업 정리
