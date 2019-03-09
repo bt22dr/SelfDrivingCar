@@ -9,6 +9,7 @@
 프로젝트 repository | https://github.com/bt22dr/CarND-LaneLines-P1
 --- | --- 
 스크린샷 | ![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif)
+동영상 | [CarND-LaneLines-P1](https://www.youtube.com/watch?v=47PNX3tZATw)
 
 #### Project 2. Traffic Sign Classifier
 프로젝트 repository | https://github.com/bt22dr/CarND-Traffic-Sign-Classifier-Project
@@ -19,16 +20,19 @@
 프로젝트 repository | https://github.com/bt22dr/CarND-Behavioral-Cloning-P3
 --- | --- 
 스크린샷 | ![CarND-Behavioral-Cloning-P3](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-behavioral-cloning.gif)
+동영상 | [CarND-Behavioral-Cloning-P3](https://www.youtube.com/watch?v=1okj095apic)
 
 #### Project 4. Advanced Lane Finding
 프로젝트 repository | https://github.com/bt22dr/CarND-Advanced-Lane-Lines
 --- | --- 
 스크린샷 | ![CarND-Advanced-Lane-Lines](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines2.gif)
+동영상 | [CarND-Advanced-Lane-Lines](https://www.youtube.com/watch?v=g2R47Rjs-3Y)
 
 #### Project 5. Vehicle Detection and Tracking
 프로젝트 repository | https://github.com/bt22dr/CarND-Vehicle-Detection
 --- | --- 
 스크린샷 | ![CarND-Vehicle-Detection](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-vehicle-detection.gif)
+동영상 | [CarND-Vehicle-Detection](https://www.youtube.com/watch?v=nut9yFeYKUI)
 
 ## Term 2. Sensor Fusion, Localization, and Control
 Term 2에서는 아래와 같은 프로젝트를 수행하였다. 
@@ -38,11 +42,13 @@ Term 2에서는 아래와 같은 프로젝트를 수행하였다.
 프로젝트 repository | https://github.com/bt22dr/CarND-Extended-Kalman-Filter-Project
 --- | --- 
 스크린샷 | ![CarND-Extended-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-extended-kalman-filter.gif)
+동영상 | [CarND-Extended-Kalman-Filter-Project](https://www.youtube.com/watch?v=3Im5iZOFUjg)
 
 ### Project 2. Unscented Kalman Filters
 프로젝트 repository | https://github.com/bt22dr/CarND-Unscented-Kalman-Filter-Project
 --- | --- 
 스크린샷 | ![CarND-Unscented-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-unscented-kalman-filter.gif)
+동영상 | [CarND-Unscented-Kalman-Filter-Project](https://www.youtube.com/watch?v=K-nPgtFtTs4)
 
 ### Project 3. Particle Filter
 프로젝트 repository | https://github.com/bt22dr/CarND-Kidnapped-Vehicle-Project
