@@ -9,33 +9,33 @@
 
 
 #### Project 1. Finding Lane Lines on the Road
-프로젝트 repository | https://github.com/bt22dr/CarND-LaneLines-P1
---- | --- 
-스크린샷 | ![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif)
-동영상 | [CarND-LaneLines-P1](https://www.youtube.com/watch?v=47PNX3tZATw)
+| 프로젝트 repository | https://github.com/bt22dr/CarND-LaneLines-P1 |
+| --- | --- |
+| 스크린샷 | ![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif) |
+| 동영상 | [CarND-LaneLines-P1](https://www.youtube.com/watch?v=47PNX3tZATw) |
 
 #### Project 2. Traffic Sign Classifier
-프로젝트 repository | https://github.com/bt22dr/CarND-Traffic-Sign-Classifier-Project
---- | --- 
-스크린샷 | ![CarND-Traffic-Sign-Classifier-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-traffic-sign-classifier.png)
+| 프로젝트 repository | https://github.com/bt22dr/CarND-Traffic-Sign-Classifier-Project |
+| --- | --- |
+| 스크린샷 | ![CarND-Traffic-Sign-Classifier-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-traffic-sign-classifier.png) |
 
 #### Project 3. Behavioral Cloning
-프로젝트 repository | https://github.com/bt22dr/CarND-Behavioral-Cloning-P3
---- | --- 
-스크린샷 | ![CarND-Behavioral-Cloning-P3](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-behavioral-cloning.gif)
-동영상 | [CarND-Behavioral-Cloning-P3](https://www.youtube.com/watch?v=1okj095apic)
+| 프로젝트 repository | https://github.com/bt22dr/CarND-Behavioral-Cloning-P3 |
+| --- | --- |
+| 스크린샷 | ![CarND-Behavioral-Cloning-P3](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-behavioral-cloning.gif) |
+| 동영상 | [CarND-Behavioral-Cloning-P3](https://www.youtube.com/watch?v=1okj095apic) |
 
 #### Project 4. Advanced Lane Finding
-프로젝트 repository | https://github.com/bt22dr/CarND-Advanced-Lane-Lines
---- | --- 
-스크린샷 | ![CarND-Advanced-Lane-Lines](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines2.gif)
-동영상 | [CarND-Advanced-Lane-Lines](https://www.youtube.com/watch?v=g2R47Rjs-3Y)
+| 프로젝트 repository | https://github.com/bt22dr/CarND-Advanced-Lane-Lines |
+| --- | --- |
+| 스크린샷 | ![CarND-Advanced-Lane-Lines](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines2.gif) |
+| 동영상 | [CarND-Advanced-Lane-Lines](https://www.youtube.com/watch?v=g2R47Rjs-3Y) |
 
 #### Project 5. Vehicle Detection and Tracking
-프로젝트 repository | https://github.com/bt22dr/CarND-Vehicle-Detection
---- | --- 
-스크린샷 | ![CarND-Vehicle-Detection](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-vehicle-detection.gif)
-동영상 | [CarND-Vehicle-Detection](https://www.youtube.com/watch?v=nut9yFeYKUI)
+| 프로젝트 repository | https://github.com/bt22dr/CarND-Vehicle-Detection |
+| --- | --- |
+| 스크린샷 | ![CarND-Vehicle-Detection](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-vehicle-detection.gif) |
+| 동영상 | [CarND-Vehicle-Detection](https://www.youtube.com/watch?v=nut9yFeYKUI) |
 
 
 
@@ -54,38 +54,31 @@ Term 2에서는 아래와 같은 프로젝트를 수행하였다.
   * PID Controller
   * Model Predictive Control
 
-
-
-
-
-
-
 #### Project 1. Extended Kalman Filters
-프로젝트 repository | https://github.com/bt22dr/CarND-Extended-Kalman-Filter-Project
---- | --- 
-스크린샷 | ![CarND-Extended-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-extended-kalman-filter.gif)
-
+| 프로젝트 repository | https://github.com/bt22dr/CarND-Extended-Kalman-Filter-Project |
+| --- | --- |
+| 스크린샷 | ![CarND-Extended-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-extended-kalman-filter.gif) |
 | 결과물 | [정리 노트](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=3Im5iZOFUjg) |
 
 #### Project 2. Unscented Kalman Filters
-프로젝트 repository | https://github.com/bt22dr/CarND-Unscented-Kalman-Filter-Project
---- | --- 
-스크린샷 | ![CarND-Unscented-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-unscented-kalman-filter.gif)
+| 프로젝트 repository | https://github.com/bt22dr/CarND-Unscented-Kalman-Filter-Project |
+| --- | --- |
+| 스크린샷 | ![CarND-Unscented-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-unscented-kalman-filter.gif) |
 | 결과물 | [정리 노트](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=K-nPgtFtTs4) |
 
 #### Project 3. Particle Filter
-프로젝트 repository | https://github.com/bt22dr/CarND-Kidnapped-Vehicle-Project
---- | --- 
-스크린샷 | ![CarND-Kidnapped-Vehicle-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-particle_filter.gif)
+| 프로젝트 repository | https://github.com/bt22dr/CarND-Kidnapped-Vehicle-Project |
+| --- | --- |
+| 스크린샷 | ![CarND-Kidnapped-Vehicle-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-particle_filter.gif) |
 | 결과물 | [Markov Localization 정리 노트](https://docs.google.com/document/d/16ceP0tXqwgHY3ntYjmDwbUIj35PvG-6NYLT-ChbEc3A/edit?usp=sharing), [Particle Filters 정리 노트](https://docs.google.com/document/d/1doS8mDIkrr3F9V70GVH6SHO3sKPh0IvfBBwCeKE9MVo/edit?usp=sharing), [데모 동영상](https://www.youtube.com/watch?v=FCaGikYDykc&t=2s) |
 
 #### Project 4. PID Controller
-프로젝트 repository | https://github.com/bt22dr/CarND-PID-Control-Project
---- | --- 
+| 프로젝트 repository | https://github.com/bt22dr/CarND-PID-Control-Project |
+| --- | --- |
 
 #### Project 5. Model Predictive Control
-프로젝트 repository | https://github.com/bt22dr/CarND-MPC-Project
---- | --- 
+| 프로젝트 repository | https://github.com/bt22dr/CarND-MPC-Project |
+| --- | --- |
 
 
 <br><br><br>
