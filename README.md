@@ -5,8 +5,7 @@
 
 ### Project 1. Finding Lane Lines on the Road
 - 프로젝트 repository: https://github.com/bt22dr/CarND-LaneLines-P1
-- 결과 화면  
-![CarND-LaneLines-P1](https://github.com/bt22dr/CarND-LaneLines-P1/raw/master/examples/6.png)
+- 결과 화면: ![CarND-LaneLines-P1](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-lane-lines1.gif)
 
 ### Project 2. Traffic Sign Classifier
 ### Project 3. Behavioral Cloning
