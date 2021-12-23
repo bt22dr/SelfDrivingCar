@@ -60,7 +60,7 @@ Term 2에서는 아래와 같은 프로젝트를 수행하였다.
 | 프로젝트 repository | https://github.com/bt22dr/CarND-Extended-Kalman-Filter-Project |
 | --- | --- |
 | 스크린샷 | ![CarND-Extended-Kalman-Filter-Project](https://github.com/bt22dr/bt22dr.github.io/blob/master/assets/images/sdc-extended-kalman-filter.gif) |
-| 결과물 | [데모 동영상](https://www.youtube.com/watch?v=3Im5iZOFUjg), [Extended Kalman Filters 정리 노트](https://docs.google.com/document/d/1MZHKUmk9UQ5LpyH34vTZHAlN4rcvP0ANnT3cky5msdg/edit?usp=sharing) |
+| 결과물 | [데모 동영상](https://www.youtube.com/watch?v=3Im5iZOFUjg), [Extended Kalman Filters 정리 노트](https://docs.google.com/document/d/12nUA9S5EXvxq-sbqcCNWuDsEI3MT-zG1ROP9oxKDbxQ/edit?usp=sharing) |
 
 #### Project 2. Unscented Kalman Filters
 | 프로젝트 repository | https://github.com/bt22dr/CarND-Unscented-Kalman-Filter-Project |
